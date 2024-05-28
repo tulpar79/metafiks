@@ -9,11 +9,11 @@ OKORANGE='\033[93m'
 RESET='\e[0m'
 
 echo -e "$OKRED              METAFİKS           $RESET"
-echo -e "$OKRED              METAFİKS           $RESET"
-echo -e "$OKRED              METAFİKS           $RESET"
-echo -e "$OKRED              METAFİKS           $RESET"
-echo -e "$OKRED              METAFİKS           $RESET"
-echo -e "$OKRED              METAFİKS           $RESET"
+echo -e "$OKRED              SECURITY           $RESET"
+echo -e "$OKRED              SOFTWARE           $RESET"
+echo -e "$OKRED            INSTALLATION         $RESET"
+echo -e "$OKRED              STARTING           $RESET"
+echo -e "$OKRED           HAVE A NICE DAY       $RESET"
 echo -e "$RESET"
 echo -e "$OKORANGE + -- --=[ https://metafiks.com $RESET"
 echo -e "$OKORANGE + -- --=[ metafiks CE by @metafiks $RESET"
