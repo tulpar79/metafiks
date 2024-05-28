@@ -27,12 +27,12 @@ if [[ "$REPORT" = "1" ]]; then
   exit
 fi
 
-echo -e "$OKRED             .          $RESET"
-echo -e "$OKRED  .$RESET"
-echo -e "$OKRED   .$RESET"
-echo -e "$OKRED .  $RESET"
-echo -e "$OKRED .     $RESET"
-echo -e "$OKRED       .           $RESET"
+echo -e "$OKRED             metafiks         $RESET"
+echo -e "$OKRED             metafiks         $RESET"
+echo -e "$OKRED             metafiks         $RESET"
+echo -e "$OKRED             metafiks         $RESET"
+echo -e "$OKRED             metafiks         $RESET"
+echo -e "$OKRED             metafiks         $RESET"
 echo -e "$RESET"
 echo -e "$OKORANGE + -- --=[https://metafikssecurity.com"
 echo -e "$OKORANGE + -- --=[metafiks v$VER by @metafiks"

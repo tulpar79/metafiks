@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Created by @xer0dayz - https://metafiks.com
+# Created by @metafiks - https://metafiks.com
 
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root" 
